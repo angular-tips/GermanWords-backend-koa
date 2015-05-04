@@ -1,0 +1,24 @@
+{
+  "name": "german-words",
+  "version": "1.0.0",
+  "description": "A Koa backend for an Angular 2 demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-tips/GermanWords-backend-koa.git"
+  },
+  "keywords": [
+    "angular2",
+    "koa",
+    "demo"
+  ],
+  "author": "Jesus Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular-tips/GermanWords-backend-koa/issues"
+  },
+  "homepage": "https://github.com/angular-tips/GermanWords-backend-koa#readme"
+}
