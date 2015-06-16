@@ -4,7 +4,7 @@ This is the companion backend of the [Angular 2 Demo + JWT](https://github.com/a
 
 Please read the article written at [Angular-Tips](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2)
 
-If you just want to try it, download the Frontend and run this project:
+If you just want to try it, download the Frontend and run this project (If you're using node, you need to use the `--harmony` flag):
 
 ```
 $ npm install
